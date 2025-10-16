@@ -1,8 +1,7 @@
 🖥️ AdminCommandGUI – Windows Admin Command Panel
 
-    AdminCommandGUI is a lightweight Windows application built with Python and Tkinter that lets you execute common administrator-level commands (like restarting services or checking IPs) through a clean and user-friendly      graphical interface.
-    
-    It runs system commands directly inside a scrollable terminal window — no need to open Command Prompt manually or type repetitive commands again.
+AdminCommandGUI is a lightweight Windows application built with Python and Tkinter that lets you execute common administrator-level commands (like restarting services or checking IPs) through a clean and user-friendly      graphical interface.
+It runs system commands directly inside a scrollable terminal window — no need to open Command Prompt manually or type repetitive commands again.
 
 ✨ Features
 
